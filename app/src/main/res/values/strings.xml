@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">County</string>
+    <string name="CountryS">
+        Sudan
+    </string>
+    <string name="GimnS">نحن جند الله جند الوطن *** إن دعا داعي الفداء لم نخــن
+
+نتحدى الموت عند المحن *** نشترى المجد بأغلى ثمن
+
+هذه الأرض لنا فليعش *** سوداننا علماً بين الأمم
+
+يابني السودان هذا رمزكم *** يحمل العبء ويحمى أرضكم
+
+شعار شعب السودان الأبي رمز العزة والكرامة</string>
+
+    <string name="GimnN"> In Godes vrees te leven
+    Heb ick altyt betracht,
+    Daerom ben ick verdreven
+    Om Landt om Luyd ghebracht:
+    Maer God sal mij regeren
+    Als een goet Instrument,
+    Dat ick zal wederkeeren
+    In mijnen Regiment.</string>
+
+    <string name="GimnBu">Горда Стара планина,
+    до ней Дунава синей,
+    слънце Тракия огрява,
+    над Пирина пламеней.
+    Мила Родино,
+    ти си земен рай,
+    твойта хубост, твойта прелест,
+    ах, те нямат край.</string>
+
+    <string name="GimnT">Oh almighty God above
+    Thou art our lord and sure defense
+    As your people, we trust thee
+    And our Tonga thou dost love
+    Hear our prayer for thou unseen
+    We know that thou hath blessed our land
+    Grant our earnest supplication
+    God save Tupou, our king.</string>
+
+    <string name="GimnA">  Oíd, mortales, el grito sagrado:
+    Libertad, libertad, libertad.
+    Oíd el ruido de rotas cadenas,
+    Ved en trono a la noble igualdad.
+    Se levanta a la faz de la Tierra
+    una nueva y gloriosa Nación,
+    coronada su sien de laureles,
+    y a sus plantas rendido un león.</string>
+
+    <string-array name="activity_options">
+        <item>Sudan</item>
+        <item>Bulgaria</item>
+        <item>Tonga</item>
+        <item>Nederland</item>
+        <item>Argentina</item>
+    </string-array>
+</resources>
+
